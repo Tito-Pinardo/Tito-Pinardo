@@ -12,8 +12,7 @@
 
 Técnico Superior en ASIR + DAW. Gestiono infraestructura real con Terraform y
 Ansible, despliego con Kubernetes y GitOps, y me obsesiona entender por qué
-falla algo antes de arreglarlo. **Busco mi primer puesto como administrador de
-sistemas, DevOps o SRE junior.**
+falla algo antes de arreglarlo.
 
 ## Lo que hay aquí
 
@@ -34,6 +33,6 @@ MikroTik · WireGuard
 
 ---
 
-<sub>🇬🇧 Systems administrator in the making (ASIR + DAW), running real
-infrastructure at home as code. Looking for a first junior sysadmin, DevOps or
-SRE role. More on [my site](https://titopinardogutierrez.com/en/).</sub>
+<sub>🇬🇧 Systems administration, infrastructure as code and DevOps (ASIR + DAW).
+I run real infrastructure at home as code. More on
+[my site](https://titopinardogutierrez.com/en/).</sub>
